@@ -8,7 +8,9 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 Prerequisites and software installation
 This software requires installation of Fiji (ImageJ), an open source software written in Java, available for Linux, Mac OS X and Windows. Fiji(ImageJ) is available here. Basic understanding of Fiji/ImageJ will facilitate installation.
 Current software (PDL1_denominator.txt) is a "toolset" written in macro language and requires to be installed in a precise directory: →Fiji.app→macros→toolsets.
+
 This script is based on the Stardist Plugin which is considered in 2022 the best nuclei segmentation tool
-The Stardist plugin is available here
+The Stardist plugin is available here https://imagej.net/plugins/stardist
+
 Software utilization
-Please follow instruction here here
+Please follow instruction https://youtu.be/QSv5eL6t08M
