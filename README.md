@@ -13,4 +13,4 @@ This script is based on the Stardist Plugin which is considered in 2022 the best
 The Stardist plugin is available here https://imagej.net/plugins/stardist
 
 Software utilization
-Please follow instruction https://youtu.be/QSv5eL6t08M
+Please visit this video: https://youtu.be/QSv5eL6t08M
