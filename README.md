@@ -17,7 +17,7 @@ Each microscope/camera setup is different. In order to obtain realistic estimati
 
 ![](/CPS-DenominatorCalibration.jpg) 
 
-Software setup and utilization demo
+YouTube video of FIJI setup and utilization of the startdist plugin and script "CPS_denominator.ijm"
 ==========
 
 Please visit this video: [PDL1-CPS-Denominator](https://youtu.be/QSv5eL6t08M)
