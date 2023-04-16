@@ -15,3 +15,5 @@ Software utilization
 ==========
 
 Please visit this video: https://youtu.be/QSv5eL6t08M
+
+[I'm an inline-style link](https://www.google.com)
