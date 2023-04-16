@@ -15,7 +15,7 @@ Calibration using a calibrated slide
 ==========
 Each microscope/camera setup is different. In order to obtain realistic estimation of the number of cells under your 20X microscopic field, you will need to know the horizantal and vertical sizes of the rectangular picture grabbed by your camera and the diameter of your microscopic field. When known these values can be stored permanently in the configuration menu as shown below.
 
-![](/pictures/ImageJ_034.png) 
+![](/CPS-DenominatorCalibration.jpg) 
 
 Software utilization
 ==========
