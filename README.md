@@ -17,8 +17,8 @@ Each microscope/camera setup is different. In order to obtain realistic estimati
 
 ![](/CPS-DenominatorCalibration.jpg) 
 
-Software utilization
+Software setup and utilization demo
 ==========
 
-Please visit this video: [PDL1-CPS-Denominator] (https://youtu.be/QSv5eL6t08M)
+Please visit this video: [PDL1-CPS-Denominator](https://youtu.be/QSv5eL6t08M)
 
