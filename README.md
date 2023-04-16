@@ -22,5 +22,5 @@ Each microscope/camera setup is different. In order to obtain realistic estimati
 YouTube video of FIJI setup + utilization of the startdist plugin and the script "CPS_denominator.ijm"
 ==========
 
-Please visit this video: [PDL1-CPS-Denominator](https://youtu.be/QSv5eL6t08M)
+Please visit this video: [PDL1-CPS-Denominator](https://youtu.be/QSv5eL6t08M) The video is available in High Definition (HD). If needed change the definition from SD to HD in the YouTube parameters at the bottom right.
 
