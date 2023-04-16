@@ -9,7 +9,7 @@ This software requires installation of Fiji (ImageJ), an open source software wr
 The proposed script (PDL1_denominator.ijm) is a "toolset" written in imageJ/FIJI macro language and requires to be installed in a precise directory: →Fiji.app→macros→toolsets. The installation is explained in the video (see at the bottom)
 
 This script is based on the Stardist Plugin which is considered in 2023 the best nuclei segmentation tool
-The Stardist plugin is available here https://imagej.net/plugins/stardist. However you will install this plugin through FIJI as explained in the video below.
+The Stardist plugin is explained [here](https://imagej.net/plugins/stardist). You will install this plugin through FIJI as explained in the video below.
 
 In order to download the script, you can either 1) click on the green icon "code" and click on "dowload zip". The script will be within this zip file that you will decompress on your computer. Or 2) click on "CPS-denominator,ijm", then on "Raw" and save the whole content on computer by naming the new file "CPS-denominator.ijm". 
 
