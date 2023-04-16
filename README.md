@@ -4,7 +4,7 @@ This script helps to count the number of cells within a 20X microscopic field. T
 Prerequisites and software installation
 ==========
 
-This software requires installation of Fiji (ImageJ), an open source software written in Java, available for Linux, Mac OS X and Windows. Fiji(ImageJ) is available here.
+This software requires installation of Fiji (ImageJ), an open source software written in Java, available for Linux, Mac OS X and Windows. Fiji(ImageJ) is available [here](https://imagej.net/software/fiji/).
 
 The proposed script (PDL1_denominator.ijm) is a "toolset" written in imageJ/FIJI macro language and requires to be installed in a precise directory: →Fiji.app→macros→toolsets. The installation is explained in the video (see at the bottom)
 
