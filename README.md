@@ -11,6 +11,8 @@ The proposed script (PDL1_denominator.ijm) is a "toolset" written in imageJ/FIJI
 This script is based on the Stardist Plugin which is considered in 2023 the best nuclei segmentation tool
 The Stardist plugin is available here https://imagej.net/plugins/stardist. However you will install this plugin through FIJI as explained in the video below.
 
+In order to download the script, you can either 1) click on the green icon "code" and click on "dowload zip". The script will be within this zip file that you will decompress on your computer. Or 2) click on "CPS-denominator,ijm", then on "Raw" and save the whole content on computer by naming the new file "CPS-denominator.ijm". 
+
 Calibration using a calibrated slide
 ==========
 Each microscope/camera setup is different. In order to obtain realistic estimation of the number of cells under your 20X microscopic field, you will need to know the horizontal and vertical sizes of the rectangular picture grabbed by your camera and the diameter of your microscopic field. When known, these values can be stored permanently in the configuration menu as shown below.
